@@ -1,15 +1,4 @@
-/*
-@media only screen and (max-width:961px){
-            section{
-                justify-content: flex-start;
-                background-color: fuchsia;
-                flex-direction: column;
-            }
-            section>article{
-                height: 500px;
-            }
-        }
-*/
+
 body{
     margin: 0;
 }
